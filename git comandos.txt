@@ -1,3 +1,11 @@
 git config --global user.email "alvg483@gmail.com"
 
 git config --global user.name "joaoc483"
+
+
+git checkout "nome da branch"
+
+
+git fetch  : traz do remoto para o local
+
+git pull  : traz as novidades que tem na branch remota que está sendo trabalhada para o repositorio local
